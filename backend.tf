@@ -3,7 +3,7 @@
     organization = "ACMECorp-RM"
 
     workspaces {
-      name = "acme-corp-aws"
+      name = "acme_clumsy_bird"
     }
   }
 } 
